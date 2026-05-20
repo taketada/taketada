@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋 I am taketada
+
+Frontend Engineer
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,python,react,nextjs,nestjs,nodejs,flask,figma,redis,dynamodb,docker,aws,gcp,terraform&perline=7)](https://skillicons.dev)
 
 <!--
 **taketada/taketada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
